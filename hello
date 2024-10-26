@@ -1,9 +1,0 @@
-GIT COMMANDS
-
-git add .
-git commit -m "test commit"
-git push
-
-Environment Creation
-py -3 -m venv .venv
-.venv\Scripts\Activate
